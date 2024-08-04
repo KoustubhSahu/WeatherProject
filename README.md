@@ -2,7 +2,7 @@
 
 Welcome to the Weather App! This user-friendly application, developed using Node.js, Express.js, and EJS, allows you to input a city name and retrieves real-time weather information through API calls. Experience a seamless and responsive interface on both desktop and mobile devices, delivering up-to-date weather data in an easy-to-understand format.
 
-![Weather App Screenshot](ss.png)
+![Weather App Screenshot](weather_ss.png)
 
 ## Key Features
 
